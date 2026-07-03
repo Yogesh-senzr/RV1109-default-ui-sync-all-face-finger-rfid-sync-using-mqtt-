@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "complex": "cpp",
+        "string": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}

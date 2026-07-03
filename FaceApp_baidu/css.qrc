@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CSS/AppStyle480x854.css</file>    
+        <file>CSS/AppStyle600x1024.css</file>
+        <file>CSS/AppStyle720x1280.css</file>
+        <file>CSS/AppStyle800x1280.css</file>
+    </qresource>
+</RCC>
